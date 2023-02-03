@@ -25,6 +25,13 @@ the application of the file retriever and used to decrypt the file
 
 ## Sceenshots of the GUI:
 ![image](https://user-images.githubusercontent.com/55962261/216705410-7c7384ed-c98a-4c3b-bac4-74dbf2610e19.png)
+
+
+## Test Cases
+There are 3 test cases to encrypt and decrypt 3 different text files (input(small-size file) , input2 (medium-size file) , input3 (large-size file)with different sizes and python file (min_temp_dataframe.py). 
+
+### Example of one of the testcases ( input(small-size file) )
+- When press the upload button
 ![image](https://user-images.githubusercontent.com/55962261/216706972-adf2c0ae-317a-4189-abcf-f249dbcb753f.png)
 ![image](https://user-images.githubusercontent.com/55962261/216707021-bcc425ae-8cab-49a2-b63a-bfa948281bd8.png)
 ![image](https://user-images.githubusercontent.com/55962261/216707046-5c1a7756-9f6e-4913-8113-c541c57ab36f.png)
@@ -35,6 +42,3 @@ the application of the file retriever and used to decrypt the file
 ![image](https://user-images.githubusercontent.com/55962261/216707347-0f327c46-2b66-479a-830e-815516ca16ae.png)
 ![image](https://user-images.githubusercontent.com/55962261/216707395-5fb9bba0-5016-4bc7-91bf-dddf049e8c4d.png)
 ![image](https://user-images.githubusercontent.com/55962261/216707431-b8d9d490-4850-4f08-a369-00a99d60a59f.png)
-
-## Test Cases
-There are 3 test cases to encrypt and decrypt 3 different text files (input(small-size file) , input2 (medium-size file) , input3 (large-size file)with different sizes and python file (min_temp_dataframe.py). 
