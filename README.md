@@ -39,6 +39,10 @@ There are 3 test cases to encrypt and decrypt 3 different text files (input(smal
 ![image](https://user-images.githubusercontent.com/55962261/216707100-38d11631-9193-416d-970c-9647f750e133.png)
 ![image](https://user-images.githubusercontent.com/55962261/216707142-b4e392ec-5110-482b-96d7-c9e0dbe1cbe4.png)
 ![image](https://user-images.githubusercontent.com/55962261/216707199-83ddde48-f2e5-41f8-8024-e6b366a62225.png)
+![image](https://user-images.githubusercontent.com/55962261/216708137-551c84bb-75ae-4a50-b680-2f92695df7d3.png)
+- When Press Download
 ![image](https://user-images.githubusercontent.com/55962261/216707347-0f327c46-2b66-479a-830e-815516ca16ae.png)
+![image](https://user-images.githubusercontent.com/55962261/216708078-dddbc9b2-c509-4c12-922e-b0d9b0cadda8.png)
 ![image](https://user-images.githubusercontent.com/55962261/216707395-5fb9bba0-5016-4bc7-91bf-dddf049e8c4d.png)
+- Press Stop button To destroy the window
 ![image](https://user-images.githubusercontent.com/55962261/216707431-b8d9d490-4850-4f08-a369-00a99d60a59f.png)
