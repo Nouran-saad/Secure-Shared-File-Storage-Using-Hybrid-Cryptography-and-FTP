@@ -31,7 +31,8 @@ the application of the file retriever and used to decrypt the file
 There are 3 test cases to encrypt and decrypt 3 different text files (input(small-size file) , input2 (medium-size file) , input3 (large-size file)with different sizes and python file (min_temp_dataframe.py). 
 
 ### Example of one of the testcases ( input(small-size file) )
-- When press the upload button
+
+#### When press the upload button
 ![image](https://user-images.githubusercontent.com/55962261/216706972-adf2c0ae-317a-4189-abcf-f249dbcb753f.png)
 ![image](https://user-images.githubusercontent.com/55962261/216707021-bcc425ae-8cab-49a2-b63a-bfa948281bd8.png)
 ![image](https://user-images.githubusercontent.com/55962261/216707046-5c1a7756-9f6e-4913-8113-c541c57ab36f.png)
@@ -40,9 +41,9 @@ There are 3 test cases to encrypt and decrypt 3 different text files (input(smal
 ![image](https://user-images.githubusercontent.com/55962261/216707142-b4e392ec-5110-482b-96d7-c9e0dbe1cbe4.png)
 ![image](https://user-images.githubusercontent.com/55962261/216707199-83ddde48-f2e5-41f8-8024-e6b366a62225.png)
 ![image](https://user-images.githubusercontent.com/55962261/216708137-551c84bb-75ae-4a50-b680-2f92695df7d3.png)
-- When Press Download
+#### When Press Download
 ![image](https://user-images.githubusercontent.com/55962261/216707347-0f327c46-2b66-479a-830e-815516ca16ae.png)
 ![image](https://user-images.githubusercontent.com/55962261/216708078-dddbc9b2-c509-4c12-922e-b0d9b0cadda8.png)
 ![image](https://user-images.githubusercontent.com/55962261/216707395-5fb9bba0-5016-4bc7-91bf-dddf049e8c4d.png)
-- Press Stop button To destroy the window
+#### Press Stop button To destroy the window
 ![image](https://user-images.githubusercontent.com/55962261/216707431-b8d9d490-4850-4f08-a369-00a99d60a59f.png)
