@@ -25,3 +25,6 @@ the application of the file retriever and used to decrypt the file
 
 ## Sceenshots of the GUI:
 ![image](https://user-images.githubusercontent.com/55962261/216705410-7c7384ed-c98a-4c3b-bac4-74dbf2610e19.png)
+
+## Test Cases
+There are 3 test cases to encrypt and decrypt 3 different text files (input(small-size file) , input2 (medium-size file) , input3 (large-size file)with different sizes and python file (min_temp_dataframe.py). 
